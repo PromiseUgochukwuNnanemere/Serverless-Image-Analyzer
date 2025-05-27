@@ -48,9 +48,6 @@ cd Serverless-Image-Analyzer
 ```
 ---
 
-### 🔷 6. Deployment Instructions (Terraform)
-
-```markdown
 ## 🧱 Deploy with Terraform
 
 ```bash
@@ -62,8 +59,6 @@ terraform apply
 
 ---
 
-### 🔷 7. Usage Instructions
-
 ## 📸 How to Use
 
 Send a POST request with an image in base64 format or S3 link to the API Gateway endpoint:
@@ -73,8 +68,6 @@ curl -X POST https://your-api-id.execute-api.us-east-1.amazonaws.com/dev/analyze
   -H "Content-Type: application/json" \
   -d '{"image": "base64string"}'
 ```
-
-### 🔷 8. Project Structure
 
 ## 📁 Project Structure
 
@@ -87,8 +80,6 @@ Serverless-Image-Analyzer/
 
 ---
 
-### 🔷 9. Future Improvements
-
 ## 📈 Future Improvements
 
 - Integrate authentication (Cognito)
@@ -98,8 +89,6 @@ Serverless-Image-Analyzer/
 - Train and host my ML model with SageMaker for ML-powered analysis
 
 ---
-
-### 🔷 10. License and Author
 
 ## 📄 License
 
