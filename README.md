@@ -99,5 +99,3 @@ This project is licensed under the MIT License.
 **Promise Ugochukwu Nnanemere**  
 - GitHub: [@PromiseUgochukwuNnanemere](https://github.com/PromiseUgochukwuNnanemere)  
 - LinkedIn: [promiseugochukwunnanemere](https://linkedin.com/in/promiseugochukwunnanemere)
-
-# Serverless-Image-Analyzer
