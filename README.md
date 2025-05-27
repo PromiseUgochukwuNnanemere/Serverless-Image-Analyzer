@@ -45,7 +45,7 @@ Clone the repository and set up your Terraform environment:
 ```bash
 git clone https://github.com/yourusername/Serverless-Image-Analyzer.git
 cd Serverless-Image-Analyzer
-
+```
 ---
 
 ### 🔷 6. Deployment Instructions (Terraform)
