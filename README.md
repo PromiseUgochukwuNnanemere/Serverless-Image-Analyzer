@@ -21,7 +21,7 @@ This is a serverless photo quality analysis application built with AWS services 
 
 ---
 
-## Screenshoots
+## 📸 Screenshoots
 
 ![Bad Profile Picture](images/bad_profile_picture.png)
 ![Good Profile Picture](images/good_profile_picture.png)
